@@ -1,4 +1,4 @@
-# <div align='center'> Hi my name is Afterglowss!</div>
+# <div align='center'> Hi I'm Afterglowss.</div>
 
 
 <!--
